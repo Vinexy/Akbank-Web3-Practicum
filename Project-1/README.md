@@ -1,4 +1,4 @@
-# Akbank-Practicum-HW-1-
+# Akbank-Practicum-Project-1
 Hands on Task (Beginner Level): Build and Deploy an Ether-Store Smart Contract with Remix IDE
 
 ![image](https://user-images.githubusercontent.com/85889196/192043159-6f118c21-3120-4f1a-9d74-b37e5632b461.png)
