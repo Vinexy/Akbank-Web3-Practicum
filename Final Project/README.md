@@ -1,4 +1,4 @@
-# Akbank-Web3-Practicum-Final-Task
+# Akbank-Web3-Practicum-Final-Project
 
 ``` solidity
 // SPDX-License-Identifier: GPL-3.0
