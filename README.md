@@ -1,6 +1,6 @@
 # Solidity Projects
 
-    Project-1: Build and Deploy an Ether-Store Smart Contract with Remix IDE
+    Project-1: Build and Deploy an Ether-Store Smart Contract with Remix IDE 
 
     Project-2: Build and Deploy a To-Do List
 
